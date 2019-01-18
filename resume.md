@@ -3,15 +3,20 @@
 541-867-5309
 
 seth.rothbard@college.edu
-https://github.com/rothbars/rothbars.github.io.
+
+https://github.com/rothbars/rothbars.github.io
+
 http://www.linkedin.com/in/sethrothbard
+
 https://twitter.com/sethrothbard
 
 | Effective Communicator | Detail Oriented | Organized | Eager to Learn |
 |------------------------|-----------------|-----------|----------------|
 # Objective
+
 To facilitate the improvement of the health of communities through public health action.
 # Summary
+
 As a future public health professional, my main goal is to improve the health of communities in any way I can. The Epidemiology Fellowship is a great opportunity for me to develop relevant epidemiological skills to achieve this goal by working with experienced epidemiologists. Over the summer months in 2018 I was given the opportunity to intern at the Oregon Health Authority as part of the Northwest Center for Foodborne Outbreak Management, Epidemiology and Surveillance team. I had a great time working for a state public health agency and it was this experience which has inspired me to pursue a career as an epidemiologist working for a state or local health department. It is because of this experience that I believe I possess the necessary epidemiological knowledge and skills to succeed as a fellow. Epidemiologists have a large amount of influence on the health of the members of the communities which they monitor, and it is this direct impact on people’s health which makes this opportunity to work with epidemiologists important to me.
 
 # Education
@@ -23,6 +28,7 @@ As a future public health professional, my main goal is to improve the health of
 >> "Acquired a breadth of biological knowledge and technical/analytical competencies, while reflecting on the interplay of science and society. Investigated three sub-disciplines within biology including cell and molecular biology/genetics, field/population biology, and organismal biology."
 
 **Accomplishments**
+
 1. Majors: Biology and German Studies
 2. Minor: Chemistry
 3. Enrolled in the βββ, National Biological Honors Society for the 2015 academic year.
